@@ -1,8 +1,7 @@
-<img align="center" alt="Banner" width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bcf9b8f-84d0-4b2f-9d7d-f2d6e9f0b5f4.gif"/>
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bcf9b8f-84d0-4b2f-9d7d-f2d6e9f0b5f4.gif"/>
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
-  Hi, I'm <strong>Yogesh Narendran</strong>
+  👋 Hi, I'm <strong>Yogesh Narendran</strong>
 </h1>
 
 <h3 align="center">
@@ -10,20 +9,30 @@
 </h3>
 
 <p align="center">
+
   <a href="https://github.com/yogeshn07">
-    <img src="https://img.shields.io/github/followers/yogeshn07?label=Followers&style=for-the-badge&color=6C63FF" />
+    <img src="https://img.shields.io/github/followers/yogeshn07?label=Followers&style=for-the-badge&color=6C63FF"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=yogeshn07&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=yogeshn07&style=for-the-badge&color=blueviolet"/>
 
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;Building+PackWise+AI;Full+Stack+Developer;Exploring+Scalable+AI+Systems;Passionate+About+Real-World+AI+Solutions"/>
+
 </p>
 
 ---
 
 <div align="center">
 
-<img width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<img width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 </div>
 
@@ -71,6 +80,15 @@ me = YogeshNarendran()
 print(me.say_hi())
 ```
 
+<div align="center">
+
+🎓 CSE (AI & ML) Student • 📚 IIT Madras BS Data Science  
+🤖 Passionate about AI-powered systems & intelligent automation  
+🚚 Currently building <strong>PackWise AI</strong>  
+⚡ Focused on scalable AI applications & real-world impact  
+
+</div>
+
 ---
 
 # 🌐 Connect With Me
@@ -97,6 +115,8 @@ print(me.say_hi())
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,typescript,dart,mysql"/>
 
+<br><br>
+
 ---
 
 ## 🤖 AI / ML Technologies
@@ -105,7 +125,7 @@ print(me.say_hi())
 
 <br><br>
 
-Machine Learning • Deep Learning • Neural Networks • Predictive Systems • Data Analysis • AI Model Development
+Machine Learning • Deep Learning • Neural Networks • Predictive Systems • Data Analysis • AI Systems
 
 ---
 
@@ -186,7 +206,17 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshn07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshn07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yogeshn07/yogeshn07/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -196,11 +226,10 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 ```python
 Advanced Machine Learning
-AI System Design
-Scalable Backend Architectures
+Scalable AI Systems
 Cloud Deployment
+Full Stack AI Applications
 AI for Logistics & Optimization
-Real-world Automation Systems
 ```
 
 ---
