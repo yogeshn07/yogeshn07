@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/216656986-9bcf9b8f-84d0-4b2f-9d7d-f2d6e9f0b5f4.gif"/>
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:7F3FBF,50:00C2FF,75:7F3FBF,100:6C63FF&height=260&section=header&text=Yogesh%20Narendran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <h1 align="center">
   👋 Hi, I'm <strong>Yogesh Narendran</strong>
@@ -11,32 +11,32 @@
 <p align="center">
 
   <a href="https://github.com/yogeshn07">
-    <img src="https://img.shields.io/github/followers/yogeshn07?label=Followers&style=for-the-badge&color=6C63FF"/>
+    <img src="https://img.shields.io/github/followers/yogeshn07?label=Followers&style=for-the-badge&color=00C2FF"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=yogeshn07&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=yogeshn07&style=for-the-badge&color=7F3FBF"/>
 
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6C63FF?style=for-the-badge"/>
 
 </p>
 
 ---
 
 <p align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;Building+PackWise+AI;Full+Stack+Developer;Exploring+Scalable+AI+Systems;Passionate+About+Real-World+AI+Solutions"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Building+PackWise+AI;Exploring+Scalable+AI+Systems;Creating+Real-World+AI+Solutions;Full+Stack+Developer"/>
 </p>
 
 ---
 
 <div align="center">
 
-<img width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<img width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
 
 # 🚀 About Me
 
@@ -91,21 +91,25 @@ print(me.say_hi())
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
+
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/yogeshn07">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yogesh-narendran-33898a320/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
 
 # 🧠 Tech Stack
 
@@ -143,6 +147,8 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
+
 # 🚀 Featured Project
 
 <div align="center">
@@ -175,6 +181,8 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
+
 # 🏆 Achievements & Highlights
 
 <div align="center">
@@ -192,13 +200,15 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yogeshn07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yogeshn07&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=yogeshn07&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=yogeshn07&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -206,11 +216,13 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshn07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshn07&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
 
 # 🐍 Contribution Graph
 
@@ -221,6 +233,8 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4927a13d-2c1d-4f9d-b147-f7fb9c9e6d2b.gif" width="100%">
 
 # 🧩 Currently Exploring
 
@@ -236,7 +250,11 @@ AI for Logistics & Optimization
 
 # ⚡ Developer Mindset
 
-> “Consistency compounds faster than motivation.”
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
 
 ---
 
@@ -250,8 +268,4 @@ AI for Logistics & Optimization
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:7F3FBF,50:00C2FF,75:7F3FBF,100:6C63FF&height=140&section=footer"/>
