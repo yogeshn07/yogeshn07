@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img width="420" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 </div>
 
@@ -228,7 +228,7 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yogeshn07/yogeshn07/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/yogeshn07/yogeshn07/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -252,7 +252,7 @@ AI for Logistics & Optimization
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+> ### "Build systems that solve real problems, not just projects that look good."
 
 </div>
 
