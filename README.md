@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img width="420" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img width="420" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 </div>
 
@@ -228,7 +228,7 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yogeshn07/yogeshn07/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/yogeshn07/yogeshn07/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
