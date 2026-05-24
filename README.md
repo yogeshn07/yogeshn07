@@ -179,6 +179,7 @@ Machine Learning • Deep Learning • Neural Networks • Predictive Systems �
 - Solving real-world optimization problems
 - Learning deployment & cloud integration
 - Working on long-term impactful AI products
+- Working on blockchain concepts connected with AI
 
 ---
 
@@ -245,6 +246,7 @@ Scalable AI Systems
 Cloud Deployment
 Full Stack AI Applications
 AI for Logistics & Optimization
+Blockchain Technology
 ```
 
 ---
