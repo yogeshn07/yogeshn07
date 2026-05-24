@@ -58,6 +58,7 @@ class YogeshNarendran:
             "Automation",
             "Full Stack Development",
             "System Design",
+            "Blockchain Technology",
             "Scalable Architectures",
             "Logistics Optimization"
         ]
