@@ -2,7 +2,7 @@
 
 <h1 align="center">
   👋 Hi, I'm <strong>Yogesh Narendran</strong>
-</h1>
+> </h1>
 
 <h3 align="center">
   AI/ML Developer • Full Stack Developer • IIT Madras BS Data Science
