@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:7F3FBF,50:00C2FF,75:7F3FBF,100:6C63FF&height=260&section=header&text=Yogesh%20Narendran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20•%20Full%20Stack%20Developer&descAlignY=60"/?
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:7F3FBF,50:00C2FF,75:7F3FBF,100:6C63FF&height=260&section=header&text=Yogesh%20Narendran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20•%20Full%20Stack%20Developer&descAlignY=60"/?>
 
 <h1 align="center">
   👋 Hi, I'm <strong>Yogesh Narendran</strong>
